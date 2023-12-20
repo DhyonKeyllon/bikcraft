@@ -1,0 +1,15 @@
+@import "./global/global.css";
+@import "./utilities/typography.css";
+@import "./utilities/colors.css";
+
+@import "./global/header.css";
+
+/* UTILS */
+@import "./utilities/components.css";
+
+/* HOME */
+@import "./home/introduction.css";
+@import "./home/technology.css";
+
+/* BIKES */
+@import "./bikes/bikes-list.css";
